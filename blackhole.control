@@ -1,0 +1,5 @@
+# blackhole hook
+comment = 'black hole'
+default_version = '0.1'
+module_pathname = '$libdir/blackhole'
+relocatable = true
